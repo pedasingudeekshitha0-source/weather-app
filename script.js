@@ -1,9 +1,11 @@
 function showWeather(){
 
-document.getElementById("city").innerHTML="Hyderabad";
+let cityInput = document.querySelector("input").value;
 
-document.getElementById("temp").innerHTML="32°C";
+document.getElementById("city").innerHTML = cityInput;
 
-document.getElementById("condition").innerHTML="Sunny";
+document.getElementById("temp").innerHTML = "30°C";
+
+document.getElementById("condition").innerHTML = "Cloudy";
 
 }
