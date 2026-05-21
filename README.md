@@ -1,2 +1,2 @@
 # weather-app
-Simple weather app using HTML CSS and JavaScript
+Responsive weather application using HTML, CSS and JavaScript with real-time weather data.
