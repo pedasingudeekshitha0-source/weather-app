@@ -45,3 +45,12 @@ src/
 ├── index.html
 ├── style.css
 └── script.js
+🔮 Future Improvements
+5-day weather forecast
+GPS location detection
+Dark mode support
+Weather animations
+API integration improvements
+👩‍💻 Author
+Deekshitha Pedasingu
+GitHub: https://github.com/pedasingudeekshitha0-source⁠�
